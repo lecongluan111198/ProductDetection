@@ -14,7 +14,7 @@ TAC_BOTTLE_MODEL = os.getenv('TAC_BOTTLE_MODEL')
 TAC_WINDOW_MODEL = os.getenv('TAC_WINDOW_MODEL')
 BANH_MODEL = os.getenv('BANH_MODEL')
 VIEW_MODEL = os.getenv('VIEW_MODEL')
-API_KEY = 'Bearer o5KcRbLoA8gZOD50UpzAJoVRnYjxyg'
+API_KEY = 'Bearer your_key'
 
 CLS_2_GROUP = {
     'Cook0.4L': 'COOK_0.4L',
