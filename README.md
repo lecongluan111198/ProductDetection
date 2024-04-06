@@ -2,7 +2,7 @@
 <!-- The project exposes 2 apis for detecting products and classifying invalid visiting images -->
 This project uses FastAPI as a framwork to build a Web Server. The server supports 2 APIs for purposes:
 - Detecting merchandising products in images.
-- Classifying valid/invalid visting images.
+- Classifying valid/invalid visiting images.
 <!-- In detecting products, I use YOLOv5 as backbone -->
 ## Detecting merchandising products
 In this task, I use YOLOv5 as a backbone with yolov5s pretrain. The model is trained over 2000 images with 55 classes.
